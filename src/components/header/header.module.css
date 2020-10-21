@@ -1,0 +1,14 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  max-width: 1100px;
+}
+
+.info {
+  min-width: 200px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
